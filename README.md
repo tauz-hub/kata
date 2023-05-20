@@ -1,4 +1,5 @@
 # Kata project
+## By Tauã Ferreira
 
 The main goal about this repo is to take advantage of **[Gradle building tool](https://gradle.org/)** to have a dev environment easy to start and write some katas with their respective test. 
 
